@@ -22,3 +22,6 @@ Dave
 
 ##
 more text for automatic merges
+
+##
+adding for rebasing example
