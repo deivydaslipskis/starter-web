@@ -24,4 +24,4 @@ Dave
 more text for automatic merges
 
 ##
-adding for rebasing example
+adding for rebasing example, more changes from myfeature branch too
