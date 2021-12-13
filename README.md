@@ -25,3 +25,5 @@ more text for automatic merges
 
 ##
 adding for rebasing example, more changes from myfeature branch too
+
+#more test text for git stash
